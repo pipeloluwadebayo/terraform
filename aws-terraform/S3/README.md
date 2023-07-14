@@ -1,0 +1,1 @@
+These configuration files create s3 buckets and bucket items
